@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\code001_natStepen.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\code001_natStepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\code001_natStepen.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\code001_natStepen.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\code001_natStepen.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\bin\Debug\net6.0\code001_natStepen.exe
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\bin\Debug\net6.0\code001_natStepen.deps.json
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\bin\Debug\net6.0\code001_natStepen.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\bin\Debug\net6.0\code001_natStepen.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\bin\Debug\net6.0\code001_natStepen.pdb
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\code001_natStepen.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\refint\code001_natStepen.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\code001_natStepen.pdb
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\code001_natStepen.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 4th seminar\code001_natStepen\obj\Debug\net6.0\ref\code001_natStepen.dll
